@@ -6,7 +6,7 @@ title: Konfiguration
 
 2. Die Station versucht, eine Verbindung mit dem konfigurierten WiFi herzustellen. Falls dies nicht funktioniert, öffnet der Sensor einen Access Point mit dem Namen `Particulate Matter ID` , `Feinstaubsensor-ID` oder `airRohr-ID`. Die ID ist die **chipID** (zum Beispiel 13597771). **Bitte notiere dir diese Nummer, da diese für die Registrierung benötigt wird.**
 
-3. Verbinde dich mit dem erstellten Adhoc-WiFi. Das Standardpassword für dieses Netzwerk ist 'airrohrcfg'. Warte, bis die Verbindung hergestellt ist.<br>*Android*: Wenn die Verbindung sofort abbricht, schau unter 'Verbindungen -> WiFi -> Erweitert' und deaktiviere die Option 'Smart Network Switch'.
+3. Verbinde dich mit dem erstellten Adhoc-WiFi. Warte, bis die Verbindung hergestellt ist.<br>*Android*: Wenn die Verbindung sofort abbricht, schau unter 'Verbindungen -> WiFi -> Erweitert' und deaktiviere die Option 'Smart Network Switch'.
 
 4. Öffne deinen Browser und gebe [http://192.168.4.1/](http://192.168.4.1/) ein.
 
