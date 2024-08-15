@@ -53,6 +53,7 @@
             <h2 class="w-full py-4 md:py-8 pb-8 text-4xl md:text-4xl font-bold leading-normal text-center md:text-left">
                 {i18n.t('donate:section')}</h2>
 
+<!--
             <div class="w-full text-center md:text-left md:w-1/2">
                 <h3 class="text-gray-700 font-medium py-4 text-2xl">{i18n.t('donate:campaign')}</h3>
                 <div class="leading-loose">
@@ -62,18 +63,19 @@
                     </div>
                 </div>
             </div>
+-->
             <div class="w-full md:w-1/2">
                 <h3 class="text-gray-700 font-medium py-4 text-2xl">{i18n.t('donate:donation')}</h3>
                 <div class="leading-loose">
                     <div class="max-w-xl bg-white ">
                         <div class="">
                             <p class="block text-sm text-gray-600">{i18n.t('donate:holder')}</p>
-                            <p class="w-full px-5  py-4 text-gray-700 bg-gray-200 rounded">Open Knowledge Foundation
-                                Germany e.V.</p>
+                            <p class="w-full px-2 py-2 text-gray-700 bg-gray-200 rounded"> Änderwerk gemeinnützige
+                                GmbH</p>
                         </div>
                         <div class="mt-2">
                             <p class="block text-sm text-gray-600">{i18n.t('donate:iban')}</p>
-                            <p class="w-full px-5  py-4 text-gray-700 bg-gray-200 rounded">DE 36 4306 0967 1173 8932
+                            <p class="w-full px-2 py-2 text-gray-700 bg-gray-200 rounded">DE46 4306 0967 1289 8604
                                 00</p>
                         </div>
                         <div class="mt-2">
@@ -82,11 +84,11 @@
                         </div>
                         <div class="mt-2">
                             <p class=" block text-sm text-gray-600">{i18n.t('donate:bank')}</p>
-                            <p class="w-full px-2 py-2 text-gray-700 bg-gray-200 rounded">GLS Community Bank</p>
+                            <p class="w-full px-2 py-2 text-gray-700 bg-gray-200 rounded">GLS Bank</p>
                         </div>
                         <div class="mt-2">
                             <p class=" block text-sm text-gray-600">{i18n.t('donate:intendedUse')}</p>
-                            <p class="w-full px-2 py-2 text-gray-700 bg-gray-200 rounded">OK Lab Stuttgart</p>
+                            <p class="w-full px-2 py-2 text-gray-700 bg-gray-200 rounded">Sensor.Community</p>
                         </div>
                         <div class="mt-2">
                             <p class=" block text-sm text-gray-600">{i18n.t('donate:donationDescription')}</p>
